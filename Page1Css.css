@@ -1,0 +1,15 @@
+body{max-width:1000px;padding:1em;font-family:Helvetica,Arial, Georgia, Times, 'Times New Roman', serif;}
+div,section,main,aside,header,footer{border:2px groove rgb(29, 22, 22);padding:.5em;margin-bottom:1em;}
+
+.center {
+  text-align: center;
+  border: 3px solid green;
+}
+.p{
+    border-radius: 4px;
+  }
+  
+  .p {
+    border-radius: 50%;
+  }
+  
